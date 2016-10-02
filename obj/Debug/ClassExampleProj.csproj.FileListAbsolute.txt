@@ -1,0 +1,9 @@
+E:\ClassExampleProj\ClassExampleProj\bin\Debug\ClassExampleProj.exe.config
+E:\ClassExampleProj\ClassExampleProj\bin\Debug\ClassExampleProj.exe
+E:\ClassExampleProj\ClassExampleProj\bin\Debug\ClassExampleProj.pdb
+E:\ClassExampleProj\ClassExampleProj\obj\Debug\ClassExampleProj.csprojResolveAssemblyReference.cache
+E:\ClassExampleProj\ClassExampleProj\obj\Debug\ClassExampleProj.Form1.resources
+E:\ClassExampleProj\ClassExampleProj\obj\Debug\ClassExampleProj.Properties.Resources.resources
+E:\ClassExampleProj\ClassExampleProj\obj\Debug\ClassExampleProj.csproj.GenerateResource.Cache
+E:\ClassExampleProj\ClassExampleProj\obj\Debug\ClassExampleProj.exe
+E:\ClassExampleProj\ClassExampleProj\obj\Debug\ClassExampleProj.pdb
